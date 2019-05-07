@@ -1,0 +1,159 @@
+[
+  {
+    "label": "Widgets",
+    "category": "UI Kit Components",
+    "url": "widgets.html"
+  },
+
+  {
+    "label": "Forms",
+    "category": "UI Kit Components",
+    "url": "forms.html"
+  },
+
+  {
+    "label": "Text Inputs",
+    "category": "UI Kit Components",
+    "url": "forms.html"
+  },
+  {
+    "label": "Selects",
+    "category": "UI Kit Components",
+    "url": "forms.html"
+  },
+  {
+    "label": "File Uploading",
+    "category": "UI Kit Components",
+    "url": "forms.html"
+  },
+  {
+    "label": "Toggles",
+    "category": "UI Kit Components",
+    "url": "forms.html"
+  },
+  {
+    "label": "Radios",
+    "category": "UI Kit Components",
+    "url": "forms.html"
+  },
+  {
+    "label": "Checkboxes",
+    "category": "UI Kit Components",
+    "url": "forms.html"
+  },
+  {
+    "label": "Textarea",
+    "category": "UI Kit Components",
+    "url": "forms.html"
+  },
+
+
+  {
+    "label": "Static",
+    "category": "Layouts",
+    "url": "layouts/static.html"
+  },
+  {
+    "label": "Fixed Header & Sidebar",
+    "category": "Layouts",
+    "url": "layouts/fixed-header-sidebar.html"
+  },
+  {
+    "label": "Mini Nav",
+    "category": "Layouts",
+    "url": "layouts/static-mini-nav-mobi.html"
+  },
+
+
+  {
+    "label": "Card Variations",
+    "category": "Cards",
+    "url": "cards/card-variations.html"
+  },
+  {
+    "label": "Card Options",
+    "category": "Cards",
+    "url": "cards/card-options.html"
+  },
+  {
+    "label": "Card Designs",
+    "category": "Cards",
+    "url": "cards/card-designs.html"
+  },
+
+
+  {
+    "label": "Basic Tables",
+    "category": "Tables",
+    "url": "tables/basic-tables.html"
+  },
+  {
+    "label": "Datatables",
+    "category": "Tables",
+    "url": "tables/datatables.html"
+  },
+
+
+  {
+    "label": "Chartist",
+    "category": "Charts",
+    "url": "charts/chartist.html"
+  },
+  {
+    "label": "Google Geo Chart",
+    "category": "Charts",
+    "url": "charts/google-geo-chart.html"
+  },
+  {
+    "label": "Timeline Chart",
+    "category": "Charts",
+    "url": "charts/timeline-chart.html"
+  },
+
+
+  {
+    "label": "Accordions",
+    "category": "UI Elements",
+    "url": "ui-elements/accordions.html"
+  },
+  {
+    "label": "Alerts",
+    "category": "UI Elements",
+    "url": "ui-elements/alerts.html"
+  },
+  {
+    "label": "Buttons",
+    "category": "UI Elements",
+    "url": "ui-elements/buttons.html"
+  },
+  {
+    "label": "Badges",
+    "category": "UI Elements",
+    "url": "ui-elements/badges-indicators.html"
+  },
+    {
+    "label": "Indicators",
+    "category": "UI Elements",
+    "url": "ui-elements/badges-indicators.html"
+  },
+  {
+    "label": "Progress",
+    "category": "UI Elements",
+    "url": "ui-elements/progress.html"
+  },
+  {
+    "label": "Dropdowns",
+    "category": "UI Elements",
+    "url": "ui-elements/dropdowns.html"
+  },
+  {
+    "label": "Icons",
+    "category": "UI Elements",
+    "url": "ui-elements/icons.html"
+  },
+  {
+    "label": "Typography",
+    "category": "UI Elements",
+    "url": "ui-elements/typography.html"
+  }
+]

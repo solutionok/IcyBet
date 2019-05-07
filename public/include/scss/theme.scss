@@ -1,0 +1,22 @@
+// Bootstrap setup
+@import '../../vendor/bootstrap/scss/functions';
+
+// Nova setup
+@import 'nova/variables';
+
+// Custom setup
+@import 'user-variables';
+
+// Bootstrap core
+@import '../../vendor/bootstrap/scss/bootstrap';
+
+/*----------------------------------------------------------------------
+  * Nova - Responsive Website Template version v1.0
+  * Copyright 2018 Htmlstream
+  * Licensed under Bootstrap Themes (https://themes.getbootstrap.com/licenses/)
+------------------------------------------------------------------------*/
+
+@import 'nova/nova';
+
+// Custom core
+@import 'user';

@@ -1,0 +1,62 @@
+.rect_has_data {
+    fill: #5cb85c;
+}
+
+.rect_has_data:hover {
+    fill: #449d44
+}
+
+.rect_has_no_data {
+    fill: #d9534d;
+}
+
+.rect_has_no_data:hover {
+    fill: #c9302c;
+}
+
+.x_tick_emph {
+    font-weight: bold;
+}
+
+.ytitle {
+    dominant-baseline: middle;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.ytitle.link {
+    cursor: pointer;
+    fill: #07C;
+}
+
+.axis path,
+.axis line {
+    display: none;
+}
+
+.axis text {
+    -moz-osx-font-smoothing: grayscale;
+    fill: #777;
+}
+
+.vert_grid {
+    fill: none;
+    stroke: #dddddd;
+    stroke-width: 1px;
+}
+
+.vert_grid_emph {
+    fill: none;
+    stroke: #dddddd;
+    stroke-width: 2px;
+}
+
+.horz_grid {
+    fill: none;
+    stroke: #dddddd;
+    stroke-width: 1px;
+}
+
+.legend {
+    dominant-baseline: middle;
+    -moz-osx-font-smoothing: grayscale;
+}
